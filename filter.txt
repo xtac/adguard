@@ -1,0 +1,5 @@
+newtoki.pro###body_wrap > ul.ba_test
+newtoki.pro###body_wrap > div.banner2
+@@||perfectstorm-iw47261.slack.com^$important,document
+newtoki.help###desktop-banners
+newtoki.help###bo_v_con > div.bo_v_banner:first-child
