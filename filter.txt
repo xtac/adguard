@@ -1,1 +1,6 @@
 newtoki.vip###body_sub_wrap > ul.banner:first-child
+etoland.co.kr###container > div.right:nth-child(2) > div.sponsor_banner_wrap
+torrentqq291.com###thema_wrapper > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container.w-main > div.row.at-row > div.col-md-9.at-col.at-main:first-child > div.row.at-row.at-banner.header:first-child
+torrentqq291.com###thema_wrapper > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container.w-main > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.row.at-row.at-banner.header:first-child
+torrentqq291.com###thema_wrapper > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container.w-main > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.row.at-row.at-banner.footer:nth-child(3)
+torrentqq291.com###article > div.view-padding:last-child > div.view-torrent:first-child > table.table.table-bordered > tfoot:last-child > tr:last-child > td.row.at-row.at-banner > div.row-banner > div.col-xs-12.col-sm-12.w-col
