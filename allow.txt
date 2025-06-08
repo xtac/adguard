@@ -1,0 +1,23 @@
+# Google AdMob / AdSense
+googleads.g.doubleclick.net
+pagead2.googlesyndication.com
+admob.com
+ads.google.com
+ads-g.doubleclick.net
+www.googletagservices.com
+securepubads.g.doubleclick.net
+tpc.googlesyndication.com
+
+# Unity Ads
+unityads.unity3d.com
+config.unityads.unity3d.com
+
+
+# AppLovin
+applovin.com
+d.applovin.com
+a.applovin.com
+v.applovin.com
+
+# IronSource
+supersonicads.com
