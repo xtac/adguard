@@ -1,7 +1,12 @@
 # 쓰레기
 ||ilbe.com^
-||megalian.com^
+||ilbe.co.kr^
+||ilbe.kr^
+||ilbe.store^
+||w-o-r-m-a-d.com^
 ||womad.life^
+||womad.co^
+||megaliainfo.com^
 
 # PSN
 ||playstation.com^
