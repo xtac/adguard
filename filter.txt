@@ -1,3 +1,6 @@
+! Title: my custom
+! Version: 1
+! Homepage: https://github.com/xtac/adguard
 @@||127.0.0.1^$important,document
 @@||www.aliexpress.com^$important,document
 @@||localhost^$important,document
@@ -6,7 +9,6 @@
 @@||docs.adison.co^$important,document
 @@||web.dominos.co.kr^$important,document
 @@||deveng-frontend-pladm.pstorm.annexdev.org^$important,document
-
 newtoki.vip###body_sub_wrap > ul.banner
 newtoki.vip###body_wrap > ul.banner
 etoland.co.kr###container > div.right:nth-child(2) > div.sponsor_banner_wrap
