@@ -9,9 +9,9 @@
 ||megaliainfo.com^
 
 # PSN
-||playstation.com^
-||playstation.net^
-||playstation.org^
-||scea.com^
-||sonyentertainmentnetwork.com^
-||sie-rd.com^
+#||playstation.com^
+#||playstation.net^
+#||playstation.org^
+#||scea.com^
+#||sonyentertainmentnetwork.com^
+#||sie-rd.com^
